@@ -1,0 +1,1300 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0"> -->
+	<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1" />
+
+	<title>A Pastor’s Lockdown Dilemma | Blog | Think Theology</title>
+	<meta name="keywords" content="Think Theology, Theology Forum, Theology papers, theology resources, theology events, doctrine, David Stroud, Mick Taylor, andrew wilson, matthew hosier, matt hosier, What you think matters, studying god, religious truth, study of the divine"
+	/>  
+	<meta property="og:title" content="A Pastor’s Lockdown Dilemma" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://thinktheology.co.uk/blog/article/a_pastors_lockdown_dilemma" />
+	<meta property="og:image" content="https://thinktheology.co.uk/images/uploads/Lockdown.jpeg" />
+	<meta property="og:site_name" content="What You Think Matters" />
+	<meta property="og:description" content="There is growing disquiet about the fact that Christians in England and Wales are once more unable to gather in worship. How should church leaders respond? We’ve seen a strongly worded letter from ‘faith leaders’ to the government, and a legal challenge is being mounted, but as yet there have been few instances of more direct disobedience to the rules. Is that about to change?
+
+Let’s imagine a dialogue between two pastors: one more sceptical of lockdown, the other more positive. Let’s call them Pastor Sceptic and Pastor Lockdown. They are friends but are thinking quite differently about things. Their conversation might help our own." />
+	<meta name="description" content="There is growing disquiet about the fact that Christians in England and Wales are once more unable to gather in worship. How should church leaders respond? We’ve seen a strongly worded letter from ‘faith leaders’ to the government, and a legal challenge is being mounted, but as yet there have been few instances of more direct disobedience to the rules. Is that about to change?
+
+Let’s imagine a dialogue between two pastors: one more sceptical of lockdown, the other more positive. Let’s call them Pastor Sceptic and Pastor Lockdown. They are friends but are thinking quite differently about things. Their conversation might help our own." />  
+	<link rel="alternate" type="application/rss+xml" title="Think Theology RSS Feed" href="https://thinktheology.co.uk/rss">
+
+	<!-- Fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500,600' rel='stylesheet' type='text/css'>
+	<script type="text/javascript" src="//use.typekit.net/zyy6hae.js"></script>
+	<script type="text/javascript">try {Typekit.load();} catch (e) { }</script>
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="https://thinktheology.co.uk/css/screen.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="https://thinktheology.co.uk/css/print.css" media="print" type="text/css" />
+
+	<!-- favion & icons -->
+	<link rel="shortcut icon" href="https://thinktheology.co.uk/favicon.ico?v=2" />
+
+	<link rel="apple-touch-icon" href="https://thinktheology.co.uk/images/icons/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="https://thinktheology.co.uk/images/icons//apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="https://thinktheology.co.uk/images/icons/apple-touch-icon-152x152.png" />
+
+	<link rel="alternate" type="application/rss+xml" href="https://thinktheology.co.uk/rss" title="Main RSS Feed" />
+	<link rel="alternate" type="application/rss+xml" href="https://thinktheology.co.uk/rss/papers-feed" title="Papers RSS Feed" />
+	<link rel="alternate" type="application/rss+xml" href="https://thinktheology.co.uk/rss/blog-feed" title="Blog RSS Feed" />
+
+	<!-- JS -->
+	<script type="text/javascript" src="https://thinktheology.co.uk/js/modernizr-ck.js"></script>
+	<script>
+		// Picture element HTML5 shiv
+		document.createElement("picture");
+	</script>
+	<script src="https://thinktheology.co.uk/js/picturefill.min.js" async></script>
+
+	<!-- emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8 -->
+	<!--[if lt IE 9]>
+			<script type="text/javascript" src="https://thinktheology.co.uk/js/selectivizr-min.js"></script>
+		<![endif]-->
+
+</head>
+
+<body  data-baseurl="https://thinktheology.co.uk/">
+	<div class="wrapper clearfix">
+		<div class="inner-wrapper clearfix">
+			<header role="banner">
+				<div class="topbar clearfix">
+					<a class="logo" href="https://thinktheology.co.uk/">
+						<h1 class="sprite ir logo-h1">Think</h1>
+					</a>
+					<a class="sprite menu-icon mtoggle"></a>
+
+					<!--
+						<div class="social-top clearfix last-col">
+							<a href="#" target="_blank"><span class="twitter-icon sprite"></span></a>
+							<a href="#" target="_blank"><span class="rss-icon sprite" class="sprite"></span></a>
+						</div>
+						-->
+
+					<span class="topdate last-col">
+						<time datetime="2020-11-16T18:10:00+00:00">Monday 16 November</time>					</span>
+					<div class="four-col search-top">
+						<form class="form-wrapper clearfix" action="https://thinktheology.co.uk/search/results" method="post" autocomplete="off">
+							<input name="keywords" class="search" placeholder="Search the site..." required>
+							<button class="sprite ir" type="submit"></button>
+							<br />
+
+							<fieldset class="checkboxes clearfix">
+								<legend>Include:</legend>
+								<input id="chkTitle" class="css-checkbox" type="checkbox" name="search_in[]" value="title" checked/>
+
+								<input id="chkTags" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-tags|article-series-tag|article-people-tag"
+								 checked/>
+								<label for="chkTags" class="css-label">Tags</label>
+
+
+								<input id="chkBody" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-body|article-summary" checked/>
+								<label for="chkBody" class="css-label">Article</label>
+							</fieldset>
+						</form>
+					</div>
+				</div>
+
+				<nav class="clearfix" role="navigation">
+					<ul class="two-col">
+						<li class="nav-top-item">
+							<a href="https://thinktheology.co.uk/blog">Blog</a>
+						</li>
+					</ul>
+
+					<ul class="two-col">
+						<li class="nav-top-item">
+							<a href="https://thinktheology.co.uk/about">What is THINK?</a>
+						</li>
+					</ul>
+
+					<ul class="two-col">
+						<li class="nav-top-item">
+							<a href="https://thinktheology.co.uk/about/authors">Authors</a>
+						</li>
+					</ul>
+
+					<ul class="two-col nav-last-item">
+						<li class="nav-top-item">
+							<a href="https://thinktheology.co.uk/contact">Contact Us</a>
+						</li>
+					</ul>
+
+					<!-- <ul class="two-col">
+							<li class="nav-top-item"><a href="https://thinktheology.co.uk/blog">Blog</a></li>
+							<li><a href="https://thinktheology.co.uk/where-to-start" class="nav-top-item">Where To Start</a></li>
+							<li><a href="https://thinktheology.co.uk/series" class="nav-top-item">Series</a></li>
+							<li><a href="https://thinktheology.co.uk/most-popular" class="nav-top-item">Most Popular</a></li>
+						</ul>
+						
+						<ul class="two-col">
+							<li class="nav-top-item"><a href="https://thinktheology.co.uk/resources">Resources</a></li>
+							<li><a href="https://thinktheology.co.uk/resources/audio-and-video" class="nav-top-item">Audio & Video</a></li>
+							<li><a href="https://thinktheology.co.uk/resources/books" class="nav-top-item">Books</a></li>
+							<li><a href="https://thinktheology.co.uk/resources/conferences-and-events" class="nav-top-item">Conferences &amp; Events</a></li>
+						</ul>				
+				
+						<ul class="two-col">
+							<li class="nav-top-item"><a href="https://thinktheology.co.uk/key-themes">Key Themes</a></li>
+							<li><a href="https://thinktheology.co.uk/key-themes/apologetics" class="nav-top-item">Apologetics</a></li>
+							<li><a href="https://thinktheology.co.uk/key-themes/hermeneutics" class="nav-top-item">Hermeneutics</a></li>
+							<li><a href="https://thinktheology.co.uk/key-themes/church-history" class="nav-top-item">Church History</a></li>
+						</ul>			
+							
+						<ul class="two-col nav-last-item">
+							<li class="nav-top-item"><a href="https://thinktheology.co.uk/about">About Us</a></li>
+							<li><a href="https://thinktheology.co.uk/about" class="nav-top-item">What is THINK?</a></li>
+							<li><a href="https://thinktheology.co.uk/about/authors" class="nav-top-item">Authors</a></li>
+							<li><a href="https://thinktheology.co.uk/contact" class="nav-top-item">Contact Us</a></li>
+						</ul> -->
+
+					<div class="four-col last-col clearfix">
+
+						<div class="one-col social-nav clearfix last-col">
+							<a href="https://twitter.com/thinktheology" target="_blank" title="Twitter @thinktheology">
+								<span class="twitter-icon sprite"></span>
+							</a>
+							<a href="https://thinktheology.co.uk/rss" target="_blank" title="Think RSS Feed">
+								<span class="rss-icon sprite"></span>
+							</a>
+						</div>
+
+						<form class="form-wrapper clearfix" action="https://thinktheology.co.uk/search/results" method="post" autocomplete="off" role="search">
+							<div class="three-col search-nav">
+								<input name="keywords" class="search" placeholder="Search the site..." required>
+								<button class="sprite ir" type="submit"></button>
+								<br />
+								<a class="search-toggle">Advanced Search
+									<span class="sprite drop-arrow"></span>
+									<span class="sprite dropped-arrow"></span>
+								</a>
+							</div>
+
+							<div class="advanced-search">
+
+								<div class="adv-search-options">
+									<div class="date-range clearfix last-col">
+										<div class="six-col">
+											<span>Date from:</span>
+											<input id="datefrom" type="text" value="" />
+											<input class="hidden" id="datefromAlt" type="text" name="entry_date-from" value="" />
+										</div>
+										<div class="six-col last-col">
+											<span>Date to:</span>
+											<input id="dateto" type="text" value="" />
+											<input class="hidden" id="datetoAlt" type="text" name="entry_date-to" value="" />
+										</div>
+									</div>
+
+									<fieldset class="checkboxes clearfix">
+										<legend>Include:</legend>
+										<input id="chkReset" class="css-checkbox" type="checkbox" name="search_in[]" value="default" checked/>
+
+
+										<input id="chkTitle2" class="css-checkbox" type="checkbox" name="search_in[]" value="|title" checked/>
+										<label for="chkTitle2" class="css-label">Title</label>
+
+
+										<input id="chkTags2" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-tags|article-series-tag|article-people-tag"
+										 checked/>
+										<label for="chkTags2" class="css-label">Tags</label>
+
+
+										<input id="chkBody2" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-body|article-summary" checked/>
+										<label for="chkBody2" class="css-label">Article</label>
+										<!--
+											<input id="chkTag2" class="css-checkbox" type="checkbox" name="search_in" value = "article-tags" checked/>
+											<label for="chkTag2" name="pub_lbl" class="css-label">Tags</label>		
+-->
+									</fieldset>
+
+								</div>
+							</div>
+						</form>
+					</div>
+				</nav>
+
+				<nav id="mobile" role="navigation">
+					<ul id="mmenu">
+						<li>
+							<a href="https://thinktheology.co.uk/blog">Blog</a>
+						</li>
+						<li>
+							<a href="https://thinktheology.co.uk/about">What is THINK?</a>
+						</li>
+						<li>
+							<a href="https://thinktheology.co.uk/about/authors">Authors</a>
+						</li>
+						<li>
+							<a href="https://thinktheology.co.uk/contact">Contact Us</a>
+						</li>
+
+						<!-- <li><a href="#" class="submenu-tog1">Blog</a>
+					        	<ul class="submenu1">
+					        		<li><a href="https://thinktheology.co.uk/blog" class="nav-top-item">/ Most Recent</a></li>	
+									<li><a href="https://thinktheology.co.uk/where-to-start" class="nav-top-item">/ Where To Start</a></li>
+									<li><a href="https://thinktheology.co.uk/series" class="nav-top-item">/ Series</a></li>
+									<li><a href="https://thinktheology.co.uk/most-popular" class="nav-top-item">/ Most Popular</a></li>				
+								</ul>
+					        <li><a href="https://thinktheology.co.uk/resources">Resources</a></li>
+					        <li><a href="https://thinktheology.co.uk/key-themes">Key Themes</a></li>
+					        <li><a href="#" class="submenu-tog">About Us</a>
+					        	<ul class="submenu">
+									<li><a href="https://thinktheology.co.uk/about" class="nav-top-item">/ What is THINK?</a></li>
+									<li><a href="https://thinktheology.co.uk/about/authors" class="nav-top-item">/ Authors</a></li>
+									<li><a href="https://thinktheology.co.uk/contact" class="nav-top-item">/ Contact Us</a></li>
+								</ul>
+					        </li>
+					        <li><a href="#" class="submenu-tog2">Search</a>
+					        	<ul class="submenu2">
+									<li class="clearfix">
+										
+										<div class="twelve-col search-top search-mobile">
+											<form class="form-wrapper clearfix" action="https://thinktheology.co.uk/search/results" method="post" autocomplete="off">								<div class="search-wrap clearfix">
+												    <input name="keywords" class="search" placeholder="Search the site..." required>
+												    <button class="sprite ir" type="submit"></button><br />
+												</div>			    
+									            <fieldset class="checkboxes clearfix"><legend>Include:</legend>
+											            	<input id="chkTitle4" class="css-checkbox" type="checkbox" name="search_in[]" value="title" checked/>
+											            
+															<input id="chkTags4" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-tags|article-series-tag|article-people-tag" checked/>
+															<label for="chkTags4" class="css-label">Tags</label>
+															
+															
+															<input id="chkBody4" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-body|article-summary" checked/>
+															<label for="chkBody4" class="css-label">Article</label>								
+										        </fieldset>
+											</form>   
+										</div>											
+										
+									</li>
+								</ul>
+					        </li>  -->
+					</ul>
+				</nav>
+
+								<nav class="breadcrumb">
+
+					
+					<a href="https://thinktheology.co.uk/">Home</a> / 					<a href="https://thinktheology.co.uk/blog">
+						Blog					</a> /  A Pastor’s Lockdown Dilemma  				</nav>
+							</header>
+		</div>
+
+		<div class="inner-wrapper">
+			<main role="main" class="clearfix">
+
+
+	<div class="content eight-col clearfix article-content">
+		<div class="next-prev-entries clearfix">
+			
+							
+					
+						<div class="prev-entry">
+							<a href="https://thinktheology.co.uk/blog/article/the_inhumanity_of_lockdown" title="View the previous blog article"><span class="prev-icon"></span>&#8592; Prev article</a>
+						</div>
+					
+					
+					
+						<div class="next-entry">
+							<a href="https://thinktheology.co.uk/blog/article/vaccine_questions" title="View the next blog article">Next article &#8594;<span class="next-icon"></span></a>
+						</div>
+					
+				
+							
+		</div>				
+	
+		<article class="blog-article single-entry">
+						
+							
+								<div class="topic-item">			
+					
+					<div class="img-border">				   
+<picture>
+	<!--[if IE 9]><video style="display: none;"><![endif]-->
+	<source srcset="/images/sized/images/uploads/Lockdown-1000x600.jpeg" media="(min-width: 1200px)">
+	<source srcset="/images/sized/images/uploads/Lockdown-770x400.jpeg" media="(min-width: 768px)">
+	<source srcset="/images/sized/images/uploads/Lockdown-570x300.jpeg" media="(min-width: 480px)">	
+	<source srcset="/images/sized/images/uploads/Lockdown-370x175.jpeg">
+	<!--[if IE 9]></video><![endif]-->
+	<img src="/images/sized/images/uploads/Lockdown-770x400.jpeg" width="770" height="400"  alt="A Pastor’s Lockdown Dilemma image" />
+</picture>	   
+			</div>
+				</div>
+							
+				<div class="single-entry-copy">	
+					
+					<h1 class="entry-title">A Pastor’s Lockdown Dilemma</h1>
+					
+					
+					<div class="blog-share clearfix">
+						<div class="blog-share-item">
+							<a class="blog-facebook sprite fbshare" href="https://www.facebook.com/sharer/sharer.php?u=https://thinktheology.co.uk/blog/article/a_pastors_lockdown_dilemma" data-url="https://thinktheology.co.uk/blog/article/a_pastors_lockdown_dilemma" onclick="window.open(this.href, 'mywin',
+'left=500,top=300,width=500,height=400,toolbar=1,resizable=0'); return false;"></a>
+							<span class="fb-count">0</span>
+						</div>
+
+						<div class="blog-share-item">
+							<a class="blog-twitter sprite tweet js-tweet" href="#" data-url="https://thinktheology.co.uk/blog/article/a_pastors_lockdown_dilemma" data-via="thinktheology" data-text="A Pastor’s Lockdown Dilemma" data-entryid="4375" data-related="js_fiddle" data-hashtags="coronavirus"></a>
+							<span class="count">
+    
+    4
+
+</span>
+						</div>
+
+
+						<div class="blog-share-item">
+							<a class="blog-gplus sprite" href="https://plus.google.com/share?url=https://thinktheology.co.uk/blog/article/a_pastors_lockdown_dilemma" onclick="window.open(this.href, 'mywin',
+'left=500,top=300,width=500,height=400,toolbar=1,resizable=0'); return false;" title="Google+"></a>
+							<span class="gp-count">0</span>
+						</div>
+					</div>						
+
+					<p class="entry-meta">By <a href="https://thinktheology.co.uk/authors/9" title="View all posts by this author">Matthew Hosier</a> | Thursday 5 November 2020</p>
+					
+										
+					<div class="summary-copy ">
+						There is growing disquiet about the fact that Christians in England and Wales are once more unable to gather in worship. How should church leaders respond? We’ve seen a strongly worded <a href="https://www.churchofengland.org/sites/default/files/2020-11/Faith%20communities%20letter%20to%20Prime%20MInister%20%28ii%29.pdf">letter</a> from ‘faith leaders’ to the government, and a <a href="https://christianconcern.com/ccpressreleases/christian-leaders-to-challenge-government-over-church-lockdown-in-england/">legal challenge</a> is being mounted, but as yet there have been few instances of more direct disobedience to the rules. Is that about to change?<br />
+<br />
+Let’s imagine a dialogue between two pastors: one more sceptical of lockdown, the other more positive. Let’s call them Pastor Sceptic and Pastor Lockdown. They are friends but are thinking quite differently about things. Their conversation might help our own.
+					</div>
+					
+					<div class="body-copy">
+						<p>Pastor Sceptic: As you know, I have been sceptical about the government’s response to the virus all along. I have tried to keep this scepticism reined in, considering it unhelpful to express a strong personal view with the potential for division within the church this could cause. However, I am finding this ‘neutrality’ increasingly difficult to maintain. How long can we go on like this? How long can I go on like this?!</p>
+
+<p>I have never denied that covid is real, or that those who are vulnerable to it should ignore it. I know it kills people. But I think SAGE have got it wrong and lockdown is a mistake. This isn’t an eccentric or conspiracy-based position but one endorsed by many senior scientists, best represented by the authors of the <a href="https://gbdeclaration.org">Great Barrington Declaration</a>. I don’t know how much longer I can stay ‘neutral’ when I don’t in anyway feel neutral about the scientific evidence of where we are at.</p>
+
+<p><br />
+<em>Pastor Lockdown: I agree with much of what you say. The government’s handling of this situation hasn’t been impressive. I agree that disease modelling is, at best, educated guesswork and that the worst-case modelling we’re being presented is problematic. This coronavirus season isn’t a short-term one, and we have many tough months ahead because a solution isn’t presenting itself – vaccines are a long way off, if at all. I’m sure we’re creating serious problems of mental, emotional and spiritual health. We are in an unprecedented situation with the state effectively controlling the role of the church in the community, dictating when we can meet and how we administer the sacraments. </p>
+
+<p>But there is a second side to the coin. </p>
+
+<p>I also believe these decisions have been made with a heavy heart, with people at the centre, and based on science, and not to harm any particular group. I know doctors who are being eaten up with worry about a health service that is becoming overwhelmed. </p>
+
+<p>That the scientists can’t agree is hugely problematic. This means that following the science isn’t simple and with experts on all sides, how do we as pastors distinguish the ones we trust from the ones we don’t? To adapt a phrase from John Piper, ‘Brothers, we are not epidemiologists’. We don’t have the answer as to which side is right, or most accurate, and the honest answer is that it is likely somewhere in the middle. For a pastor to stake a position in this would be running into all kinds of trouble. </em></p>
+
+<p><br />
+You’re right about the arguments about the science. But even if I’m reading that wrong and the virus kills more people than I think it will, my real problem is with all the negative impacts of lockdown. As you say, we’re creating all kinds of problems – problems which I think outweigh the threat posed by the virus. This is why I support the <a href="https://timeforrecovery.org">Recovery</a> campaign – and would like to urge the members of my church to do so too. I’d like to stop being so ‘centred’ and stake a position! Actually, I think your strategy of not choosing a side is to choose a side – in reality you are collaborating with the lockdown and all the negative impacts of that. It is worth saying repeatedly: all the evidence suggests most people are not at serious risk from covid, but they are at risk from lockdown. I think it’s time to state that from the pulpit.</p>
+
+<p><br />
+<em>True, covid might not affect the majority of people, but it does affect some and even some who you would not expect it to. That’s why the doctors in my congregation are so concerned. They are warning about the dangers of what they are seeing, not imagining. Surely, if we’re going to err it should be on the side of caution – the risks of not doing so are just too great. </em></p>
+
+<p><br />
+OK, look at it this way: if this were simply an argument about which group of scientists are correct it would be a bit like the Brexit debate – something that is really important, but not an issue that should shape our ministry approach. But of course this is different from Brexit in the impact the response to the virus has upon us. I really do think there are some fundamental issues at stake in terms of our witness.</p>
+
+<p>The story of Joseph is normally told as one of redemption, which of course it is. But there is more to the story than that, because it is also a story of Joseph subjugating the Egyptians. We’re told in Genesis 47:20-21 that, </p>
+
+<blockquote><p>Joseph bought all the land in Egypt for Pharaoh. The Egyptians, one and all, sold their fields, because the famine was too severe for them. The land became Pharaoh’s, and Joseph reduced the people to servitude, from one end of Egypt to the other.</p>
+</blockquote>
+
+<p>It feels to me that we are in a similar position to those Egyptians. The State has in effect performed a huge landgrab in terms of what it now permits us to do and it has made all of us increasingly dependent upon it for our survival. We are being reduced to servitude.</p>
+
+<p><br />
+<em>I agree that the rules the State has imposed on us are a problem, but don’t believe they are doing it to stifle faith itself. This is an important distinction for me. If the State’s control of our actions in this season was based on stifling our spiritual freedoms or controlling our expression of faith, I would be as ready to stand as you are. But this decision has not been made with the church in mind, any more than they are thinking about hairdressers or publicans. I do not believe these restrictions to be an affront to our faith, or our expression of it. We can still preach the gospel, spur people on in their faith, read the bible and pray, albeit in a different way than we are used to.</p>
+
+<p>These are temporary measures – for our good. We should abide by them. Afterall, this lockdown is for just four Sundays.&nbsp; </em></p>
+
+<p><br />
+I can’t see this as being about just four Sundays. We have already had seven months in which the government has dictated who we may or may not see, how we interact with one another, has limited or banned corporate worship, has made weddings illegal, restricted where we can travel to, and on and on. There is no guarantee that this lockdown will be the end of it. And even if lockdown does help reduce the spread of the virus this will only – as Professor Carl Heneghan has put it – kick the can further down the road. We’d normally expect respiratory infections to be worse after Christmas than before it, so what then – another lockdown in January?</p>
+
+<p>We know that institutions generally, and governments in particular, are always very reluctant to surrender powers once they have obtained them. When this begins to ratchet out of control the result is the beast of Revelation 13 – the State developing a ravening appetite for evermore power, and this always results in persecution against the people of God. I have little confidence that our government will hand back all the authority it has seized during this crisis. You don’t need to be a conspiracy theorist to recognise that.</p>
+
+<p><br />
+<em>You talk about this being a moment of survival and servitude – I see it more as a moment where God has tested us, and where God has blessed us. Our role as pastors is to bring unity, to be a light in the community, rather than a disruption, to put the fire of God in our people by showing them that God is alive, that nothing can stop the Lord Almighty, and that the church will prevail, as it has done for centuries. Our message should be a positive one of a church in action, a church which works for the good of the community, for the good of its members, and the good of the gospel. We should assume the good intentions of the government, which has been given its authority ultimately by God. It may be flawed in how it goes about this, but that doesn’t mean we should be sceptical about it.</em></p>
+
+<p><br />
+I don’t think you’re seeing things clearly. A mechanism by which the State accrues disproportionate power is through the exercise of fear. This can be direct (‘Disobey and we’ll fine you £10,000), or indirect (‘If you don’t do what we say the consequences will be disastrous – your granny will die and it will be your fault.’). This government is dealing in fear on an epic scale! But the gospel tells us that, </p>
+
+<blockquote><p>Since the children have flesh and blood, he too shared in their humanity so that by his death he might break the power of him who holds the power of death—that is, the devil—and free those who all their lives were held in slavery by their fear of death (Hebrews 2:14-15).</p>
+</blockquote>
+
+<p>That is, the gospel directly challenges the narrative of fear the government is propagating around covid. Fear is slavery, and we are called to be free! Applying this would surely be challenging if we were facing the Spanish Flu or living in North Korea, but it would still be true. In our context, I’m not sure how to preach this gospel without telling people they don’t need to fear – especially (I’ll say it again!) as the reality is that for the majority covid poses no serious threat at all. It is easy for us to sing ‘no fear in death’ but that doesn’t mean much if we succumb to the fear narrative that surrounds covid.</p>
+
+<p><br />
+<em>Yes, the fear and anxiety generated by the response to the virus might be worse than the virus itself. Yes, we need to preach against that fear. Yes, we need to sing ‘no fear in death’ and mean it. Ultimately, though, I believe the church in this season is more effective in preaching that message from inside the tent, rather than outside. </p>
+
+<p>The government preaches fear, let’s respond with faith; the government speaks about death, let’s preach life. Are they right? Are they wrong? That isn’t central to our ministry! We need to leave our personal perspective on how the government is handling things, what the accuracy of the science is, to one side, and keep the main thing the main thing. </p>
+
+<p>In our shepherding of the people under our care, I believe this to be the way in which we can build them up and care for them best. That means, in spite of our own personal convictions, it is right at the moment to ‘sit at the centre’. My role is to give faith to, sit with, and protect the scared and vulnerable and help people constructively voice their concerns too. You and I are called as shepherds of the people God has entrusted to us. Our first responsibility is to the flock. This isn’t the time to speak truth to power, but to speak faith to the downhearted. </em></p>
+
+<p><br />
+But how do we do that if we don’t actually believe the narrative? When I only comfort someone who is fearful it feels as if I am lying – that I have become a collaborator too. These are such difficult issues but I think you know I’ve always tried to lead with a strong sense of conscience. I don’t want to be numbered among the cowardly who find themselves outside the new Jerusalem (Rev. 21:8). I’m wondering if it is time to act – whether it is time for civil disobedience, or at least passive resistance. I’m not advocating doing anything crazy but I do think we should ask ourselves, ‘if this isn’t the line at which we refuse to budge, what would be?’ And, ‘if we give way at this line, how do we know we wouldn’t at a later one?’ Surely, at the least, we should be more vocal about all this?</p>
+
+<p><br />
+<em>I don’t, as you say, want to be numbered among the cowardly; I want to stand for Jesus the way He did for us. I admire that resolve in you, but in writing this, and in taking this position, I don’t see myself as a coward, but a father. Civil disobedience is a huge step. Continuing to meet, or being publicly against current restrictions, could bring with it negative media coverage, possible police action and significant fines. I appreciate you might think this underlines your argument about the State overstepping its rightful authority, but I also believe it won’t be conducive to our role in the community, or our ability to preach the gospel in this season either. </p>
+
+<p>There is also the very risk of causing pain and division among the people we are leading – not just in that we may ask them to stand with us against their own conscience, but in so doing we would be asking more than their mere attendance. This could mean putting jobs, wages, finance and friendship on the line. </p>
+
+<p>I don’t much like the lockdown either, but don’t believe our response should be civil disobedience. Ultimately, I do not believe this is a ‘line in the sand’ moment where the State takes power that it will not give back. We will face many battles ahead when it comes to faith in what is undoubtedly a secularised society that thinks we’ve got it all wrong – a time will come where we will need to put lines in the sand – but this isn’t our moment to fight. This is not a moment of attack on the church. Our line in the sand moment comes when targeted infringements are put on us that restrict our freedom to worship, to practice what we believe, in a way that is disproportionate to the rest of society, and that is not what we’re seeing here. </em></p>
+
+<p><br />
+You&#8217;re right, the measures aren&#8217;t directed specifically at churches, but I think all sectors of society should be resisting! If we could organise a day on which the churches opened, along with the pubs and hairdressers, in defiance of the lockdown, I would be all for it. At root this is a justice issue for me, because I think the costs of the lockdown are too high, and penalise the poor most of all. The people making the decisions – and working in the hospitals – have guaranteed job security. The poor single mum working a couple of jobs to make ends meet has very little, if any, security. </p>
+
+<p>Also, crucially, the church is not in the same category as pubs or hairdressers. What we do is more important than what the NHS or schools do. We have a direct command from God to gather in worship. The existence of worshipping congregations is essential to the wellbeing of society. We mustn&#8217;t lose sight of the unique calling and responsibility of the church!</p>
+
+<p><br />
+<em>I agree about the unique status of the church, but ultimately our role should be one of unity, not disobedience, but not subservience either. I’m with you – I don’t want to blindly dance to the tune of a State that might not have our best in mind, and I don’t want to sleepwalk past a point of no return when it comes to our spiritual freedoms. The day might come when we have to fight for that – I just don’t think that time is now. </em> </p>
+
+<p><br />
+I think you might be too optimistic! Governments do not hand back powers they have assumed. (Remember, income tax was only ever meant to be a temporary innovation!) It is not difficult to imagine a government in the not too distant future saying something like, &#8216;You don&#8217;t believe someone born male can become female? We need to close you down for health reasons!&#8217; The more ground we concede now, the less we will have to stand on in the future.</p>
+
+<p>I’m going to take some time to reflect on what you’ve said and I’m not rushing into action. But I’m not sure you have convinced me I am wrong! I still think that by not putting up some resistance we are in effect supporting what is a disastrous policy. The church has made that kind of mistake too often in the past. It never ends well.</p>
+
+<p><br />
+<em>I’m not sure you’ve convinced me that I’m wrong either! But I’m grateful for the dialogue. May God give us both much grace and wisdom at this time. We need it.</em></p>
+
+<p>&nbsp;</p>
+					</div>
+				
+						
+				</div>
+				
+				
+					<div class="prev-entry">
+						<a href="https://thinktheology.co.uk/blog/article/the_inhumanity_of_lockdown" title="View the previous blog article"><span class="prev-icon"></span>&#8592; Prev article</a>
+					</div>
+				
+				
+				
+					<div class="next-entry">
+						<a href="https://thinktheology.co.uk/blog/article/vaccine_questions" title="View the next blog article">Next article &#8594;<span class="next-icon"></span></a>
+					</div>
+				
+
+								
+			
+			
+		
+			<!-- Commenting -->
+			<section id="comments">						
+				
+					
+			    
+				
+				<!-- Archived Comments -->
+				
+			
+			</section>
+
+			<section class="related-entries-container">	
+					 
+													<h2 class="similar-entries-title">More like this...</h2>			
+							<ul class="related-entries clearfix">
+												<li class="two-col ">
+							<h2><a href="https://thinktheology.co.uk/blog/article/a_word_of_encouragement_for_pastors">A Word of Encouragement for Pastors</a></h2>
+							<p><p>I want to offer a word of encouragement for pastors. This...</p></p>
+							<span><a class="more-tag" href="https://thinktheology.co.uk/blog/article/a_word_of_encouragement_for_pastors">Read More</a></span>
+						</li>
+											 
+												<li class="two-col ">
+							<h2><a href="https://thinktheology.co.uk/blog/article/vaccine_questions">Vaccine Questions</a></h2>
+							<p><p>As those of us in England head into our second national...</p></p>
+							<span><a class="more-tag" href="https://thinktheology.co.uk/blog/article/vaccine_questions">Read More</a></span>
+						</li>
+											 
+												<li class="two-col last-col">
+							<h2><a href="https://thinktheology.co.uk/blog/article/the_inhumanity_of_lockdown">The Inhumanity of Lockdown</a></h2>
+							<p><p>I am well aware of the deep feeling that separates us on...</p></p>
+							<span><a class="more-tag" href="https://thinktheology.co.uk/blog/article/the_inhumanity_of_lockdown">Read More</a></span>
+						</li>
+													</ul>
+											
+			</section>
+		</article>  <!-- end single entry -->
+	</div>
+
+	<aside class="sidebar four-col last-col article-sidebar first-sidebar">
+		<span class="article-arrow" ></span>
+		
+		<h3 class="top-header">Author info</h3>
+		
+		
+			<div class="entry-author clearfix">
+				<div class="entry-author-image">
+					<a href="https://thinktheology.co.uk/authors/9" title="View all posts by this author">
+													<img src="https://thinktheology.co.uk/images/member_photos/photo_9.jpg" width="100" alt="Matthew Hosier Photo">		
+											</a>
+				</div>
+				
+				<div class="entry-author-info">
+					<h4><a href="https://thinktheology.co.uk/authors/9" title="View all posts by this author">Matthew Hosier</a></h4>
+					
+					<p class="author-bio">
+						<strong>Bio: </strong><div class="author-bio-copy">Matthew leads <a href="https://www.gatewaychurch.me/">Gateway Church, Poole</a>. With his wife Grace, Matthew enjoys going for long runs and bike rides along the coast and deep into the Dorset countryside. Having four daughters he is also a keen student of female psychology. Matthew thought he was going to be an agricultural research scientist but somehow ended up as a pastor. This has confirmed his belief in the sovereignty of God.</div>
+					</p>
+					
+					
+					<p>
+						<strong>Website: </strong><span><a href="https://www.gatewaychurch.me/">Gateway Church, Poole</a></span>											</p>
+					<a class="read-more-bio" href="https://thinktheology.co.uk/authors/9">View all posts</a>
+				</div>
+			</div>
+		
+		
+		
+			<div class="single-entry-secondary-data article-primary-image">
+				<h2>Article Tags </h2>
+				
+				<span  class="tag-list series-list">
+					
+				</span>				
+				
+				<ul class="tag-list">
+					
+						  
+						
+						<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/coronavirus" title="View all enties tagged with coronavirus">coronavirus</a></li>
+					
+						  
+						
+						<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/lockdown" title="View all enties tagged with lockdown">lockdown</a></li>
+					
+				</ul>
+			
+	
+							</div>
+		
+	</aside>	
+
+	<aside class="sidebar four-col last-col next-sidebar">
+	<h3>From Across The Blog</h3>
+	<ul class="tag-list series-list">			
+		<li class="group-label">Series</li>
+
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/believe_jesus#series-tags" title="View all entries tagged with believe jesus" data-tag="believe_jesus">believe jesus<span class="tag-count">&nbsp;21</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/straight_to_the_heart#series-tags" title="View all entries tagged with straight to the heart" data-tag="straight_to_the_heart">straight to the heart<span class="tag-count">&nbsp;21</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/paul_and_the_faithfulness_of_god#series-tags" title="View all entries tagged with paul and the faithfulness of god" data-tag="paul_and_the_faithfulness_of_god">paul and the faithfulness of god<span class="tag-count">&nbsp;12</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/heidelberg_catechism#series-tags" title="View all entries tagged with heidelberg catechism" data-tag="heidelberg_catechism">heidelberg catechism<span class="tag-count">&nbsp;10</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/soul_of_science#series-tags" title="View all entries tagged with soul of science" data-tag="soul_of_science">soul of science<span class="tag-count">&nbsp;9</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/creation_and_science#series-tags" title="View all entries tagged with creation and science" data-tag="creation_and_science">creation and science<span class="tag-count">&nbsp;7</span></a></li>
+		 
+
+		<li class="tag more-tag"><a href="https://thinktheology.co.uk/blog/tags/#series-tags">...View more</a></li>
+	</ul>
+	
+	<ul class="tag-list topic-list">
+		<li class="group-label">Topic</li>
+
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/culture#topic-tags" title="View all entries tagged with culture" data-tag="culture">culture<span class="tag-count">&nbsp;123</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/reviews#topic-tags" title="View all entries tagged with reviews" data-tag="reviews">reviews<span class="tag-count">&nbsp;63</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/politics#topic-tags" title="View all entries tagged with politics" data-tag="politics">politics<span class="tag-count">&nbsp;62</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/jesus#topic-tags" title="View all entries tagged with jesus" data-tag="jesus">jesus<span class="tag-count">&nbsp;60</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/ethics#topic-tags" title="View all entries tagged with ethics" data-tag="ethics">ethics<span class="tag-count">&nbsp;57</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/heidelberg_catechism#topic-tags" title="View all entries tagged with heidelberg catechism" data-tag="heidelberg_catechism">heidelberg catechism<span class="tag-count">&nbsp;56</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/coronavirus#topic-tags" title="View all entries tagged with coronavirus" data-tag="coronavirus">coronavirus<span class="tag-count">&nbsp;49</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/books#topic-tags" title="View all entries tagged with books" data-tag="books">books<span class="tag-count">&nbsp;45</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/prayer#topic-tags" title="View all entries tagged with prayer" data-tag="prayer">prayer<span class="tag-count">&nbsp;44</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/church#topic-tags" title="View all entries tagged with church" data-tag="church">church<span class="tag-count">&nbsp;42</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/gospel#topic-tags" title="View all entries tagged with gospel" data-tag="gospel">gospel<span class="tag-count">&nbsp;37</span></a></li>
+		
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/review#topic-tags" title="View all entries tagged with review" data-tag="review">review<span class="tag-count">&nbsp;37</span></a></li>
+		 
+	
+		<li class="tag more-tag"><a href="https://thinktheology.co.uk/blog/tags/#topic-tags">...View more</a></li>	
+	</ul>			
+	
+	<ul class="tag-list people-list">				
+		<li class="group-label">People</li>
+
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/n_t_wright#people-tags" title="View all entries tagged with n t wright" data-tag="n_t_wright">n t wright<span class="tag-count">&nbsp;15</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/paul#people-tags" title="View all entries tagged with paul" data-tag="paul">paul<span class="tag-count">&nbsp;10</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/martin_luther#people-tags" title="View all entries tagged with martin luther" data-tag="martin_luther">martin luther<span class="tag-count">&nbsp;9</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/john_piper#people-tags" title="View all entries tagged with john piper" data-tag="john_piper">john piper<span class="tag-count">&nbsp;6</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/doug_wilson#people-tags" title="View all entries tagged with doug wilson" data-tag="doug_wilson">doug wilson<span class="tag-count">&nbsp;6</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/tom_wright#people-tags" title="View all entries tagged with tom wright" data-tag="tom_wright">tom wright<span class="tag-count">&nbsp;6</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/tim_keller#people-tags" title="View all entries tagged with tim keller" data-tag="tim_keller">tim keller<span class="tag-count">&nbsp;6</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/david_bentley_hart#people-tags" title="View all entries tagged with david bentley hart" data-tag="david_bentley_hart">david bentley hart<span class="tag-count">&nbsp;5</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/c_s_lewis#people-tags" title="View all entries tagged with c s lewis" data-tag="c_s_lewis">c s lewis<span class="tag-count">&nbsp;3</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/steve_chalke#people-tags" title="View all entries tagged with steve chalke" data-tag="steve_chalke">steve chalke<span class="tag-count">&nbsp;3</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/sam_allberry#people-tags" title="View all entries tagged with sam allberry" data-tag="sam_allberry">sam allberry<span class="tag-count">&nbsp;3</span></a></li>
+			
+			<li class="tag"><a href="https://thinktheology.co.uk/blog/tags/tag/justin_welby#people-tags" title="View all entries tagged with justin welby" data-tag="justin_welby">justin welby<span class="tag-count">&nbsp;3</span></a></li>
+		 
+	
+		<li class="tag more-tag"><a href="https://thinktheology.co.uk/blog/tags/#people-tags">...View more</a></li>		
+	</ul>
+
+	<h3>Authors</h3>
+	
+	<a href="#" class="grid-toggle">List by author photo</a>
+	<a href="#" class="name-toggle">List by author name</a>
+	
+	<ul class="contributors-photo-grid clearfix">
+		
+							<li>
+					<a class="norm-col first-col first-col " href="https://thinktheology.co.uk/authors/98" title="Adrian Birks">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_98-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Adrian Birks"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/21" title="Andrew Wilson">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_21-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Andrew Wilson"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/4708" title="Andrew Bunt">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4708-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Andrew Bunt"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/4701" title="Andrew Haslam">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4701-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Andrew Haslam"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col last-col" href="https://thinktheology.co.uk/authors/4706" title="Andrew Ryland">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4706-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Andrew Ryland"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col first-col first-col " href="https://thinktheology.co.uk/authors/197" title="Andy Johnston">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_197-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Andy Johnston"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/379" title="Chine Mbubaegbu">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_379-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Chine Mbubaegbu"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/1053" title="Danny Webster">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_1053-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Danny Webster"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/243" title="Dave Bish">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_243-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Dave Bish"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col last-col" href="https://thinktheology.co.uk/authors/406" title="David Devenish">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_406-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="David Devenish"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col first-col " href="https://thinktheology.co.uk/authors/609" title="Elspeth Barnett">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_609-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Elspeth Barnett"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/258" title="Emily Woods-Abraham">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_258-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Emily Woods-Abraham"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/633" title="Graham Clark">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_633-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Graham Clark"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/230" title="Guy Miller">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_230-greyscale-68x68.png" width="68" height="68" class="orig-img" alt="Guy Miller"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col last-col" href="https://thinktheology.co.uk/authors/544" title="Harman Bhogal">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_544-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Harman Bhogal"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col first-col " href="https://thinktheology.co.uk/authors/445" title="James Patrick">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_445-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="James Patrick"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/491" title="Jamie Franklin">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_491-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Jamie Franklin"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/244" title="Jennie Pollock">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_244-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Jennie Pollock"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/1099" title="Jonny Mellor">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_1099-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Jonny Mellor"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col last-col" href="https://thinktheology.co.uk/authors/4710" title="Kristine Nethers">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4710-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Kristine Nethers"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col first-col " href="https://thinktheology.co.uk/authors/255" title="Mark Amos">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_255-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Mark Amos"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/167" title="Martin Charlesworth">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_167-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Martin Charlesworth"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/9" title="Matthew Hosier">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_9-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Matthew Hosier"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/284" title="Mbonisi Malaba">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_284-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Mbonisi Malaba"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col last-col" href="https://thinktheology.co.uk/authors/99" title="Mick Taylor">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_99-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Mick Taylor"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col first-col " href="https://thinktheology.co.uk/authors/403" title="Mike Betts">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_403-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Mike Betts"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/786" title="Mike Reeves">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_786-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Mike Reeves"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/4703" title="Nathanael Smith">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4703-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Nathanael Smith"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/10" title="Nick Chatrath">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_10-greyscale-68x68.png" width="68" height="68" class="orig-img" alt="Nick Chatrath"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col last-col" href="https://thinktheology.co.uk/authors/4704" title="Peter Mead">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4704-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Peter Mead"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col first-col " href="https://thinktheology.co.uk/authors/697" title="Phil Whittall">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_697-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Phil Whittall"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/168" title="Phil Moore">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_168-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Phil Moore"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/4709" title="PJ Smyth">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4709-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="PJ Smyth"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/262" title="Ruth Preston">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_262-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Ruth Preston"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col last-col" href="https://thinktheology.co.uk/authors/278" title="Saint Stuffed Shirt">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_278-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Saint Stuffed Shirt"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col first-col " href="https://thinktheology.co.uk/authors/264" title="Sam Poe">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_264-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Sam Poe"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/4705" title="Terran Williams">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_4705-greyscale-68x68.png" width="68" height="68" class="orig-img" alt="Terran Williams"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/1125" title="Think Team">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_1125-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Think Team"/>
+						
+					</a>
+				</li>
+					
+							<li>
+					<a class="norm-col " href="https://thinktheology.co.uk/authors/202" title="Tim Jones">
+						 <!-- REMOVE think' FOR STAGING -->
+							<img src="/images/sized/images/member_photos/photo_202-greyscale-68x68.jpg" width="68" height="68" class="orig-img" alt="Tim Jones"/>
+						
+					</a>
+				</li>
+					
+	</ul>
+	
+	<ul class="contributor-name-list">
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/98" title="View all posts by this author" class="contributor-filter">Adrian Birks</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/21" title="View all posts by this author" class="contributor-filter">Andrew Wilson</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/4701" title="View all posts by this author" class="contributor-filter">Andrew Haslam</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/4708" title="View all posts by this author" class="contributor-filter">Andrew Bunt</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/4706" title="View all posts by this author" class="contributor-filter">Andrew Ryland</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/197" title="View all posts by this author" class="contributor-filter">Andy Johnston</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/379" title="View all posts by this author" class="contributor-filter">Chine Mbubaegbu</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/1053" title="View all posts by this author" class="contributor-filter">Danny Webster</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/243" title="View all posts by this author" class="contributor-filter">Dave Bish</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/406" title="View all posts by this author" class="contributor-filter">David Devenish</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/609" title="View all posts by this author" class="contributor-filter">Elspeth Barnett</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/258" title="View all posts by this author" class="contributor-filter">Emily Woods-Abraham</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/633" title="View all posts by this author" class="contributor-filter">Graham Clark</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/230" title="View all posts by this author" class="contributor-filter">Guy Miller</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/544" title="View all posts by this author" class="contributor-filter">Harman Bhogal</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/445" title="View all posts by this author" class="contributor-filter">James Patrick</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/491" title="View all posts by this author" class="contributor-filter">Jamie Franklin</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/244" title="View all posts by this author" class="contributor-filter">Jennie Pollock</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/1099" title="View all posts by this author" class="contributor-filter">Jonny Mellor</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/4710" title="View all posts by this author" class="contributor-filter">Kristine Nethers</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/255" title="View all posts by this author" class="contributor-filter">Mark Amos</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/167" title="View all posts by this author" class="contributor-filter">Martin Charlesworth</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/9" title="View all posts by this author" class="contributor-filter">Matthew Hosier</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/2072" title="View all posts by this author" class="contributor-filter">Matthew Hosier & Andrew Wilson </a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/284" title="View all posts by this author" class="contributor-filter">Mbonisi Malaba</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/99" title="View all posts by this author" class="contributor-filter">Mick Taylor</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/786" title="View all posts by this author" class="contributor-filter">Mike Reeves</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/403" title="View all posts by this author" class="contributor-filter">Mike Betts</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/4703" title="View all posts by this author" class="contributor-filter">Nathanael Smith</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/10" title="View all posts by this author" class="contributor-filter">Nick Chatrath</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/4704" title="View all posts by this author" class="contributor-filter">Peter Mead</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/168" title="View all posts by this author" class="contributor-filter">Phil Moore</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/697" title="View all posts by this author" class="contributor-filter">Phil Whittall</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/4709" title="View all posts by this author" class="contributor-filter">PJ Smyth</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/262" title="View all posts by this author" class="contributor-filter">Ruth Preston</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/278" title="View all posts by this author" class="contributor-filter">Saint Stuffed Shirt</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/264" title="View all posts by this author" class="contributor-filter">Sam Poe</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/4705" title="View all posts by this author" class="contributor-filter">Terran Williams</a>
+			</li>
+		
+			<li >
+				<a href="https://thinktheology.co.uk/authors/1125" title="View all posts by this author" class="contributor-filter">Think Team </a>
+			</li>
+		
+			<li class="end-list-item">
+				<a href="https://thinktheology.co.uk/authors/202" title="View all posts by this author" class="contributor-filter">Tim Jones</a>
+			</li>
+		
+	</ul>	
+</aside>
+
+	
+			</main>
+			<footer class="clearfix">
+				<a href="#" class="back-to-top">Back to Top</a>
+				
+				<div class="footer-inner clearfix">
+
+						<ul class="two-col">
+							<li class="nav-top-item">Useful Info</li>
+							
+							<li><a href="https://thinktheology.co.uk/info/site-information" title="Site Information">Site Information</a></li>
+							
+							<li><a href="https://thinktheology.co.uk/info/privacy-policy" title="Privacy &amp; Cookie Policy">Privacy &amp; Cookie Policy</a></li>
+							
+						</ul>
+
+						<ul class="two-col sitemap">
+							<li class="nav-top-item">Sitemap</li>
+							<li><a href="https://thinktheology.co.uk/blog" title="Think Theology Blog">Blog</a></li>
+							<li><a href="https://thinktheology.co.uk/resources" title="Think Theology Resources">Resources</a></li>
+							<li><a href="https://thinktheology.co.uk/key-themes" title="Think Theology Key Themes">Key Themes</a></li>
+							<li><a href="https://thinktheology.co.uk/about" title="About Think Theology">About us</a></li>						
+						</ul>
+						
+						<ul class="two-col media">
+							<li class="nav-top-item">Media Streams</li>
+							<li><a href="https://thinktheology.co.uk/rss" title="Think RSS Feed">RSS Feed</a></li>
+							
+							<li><a href="http://twitter.com/thinktheology" title="Theology Forum Twitter Feed">Twitter</a></li>
+							
+						</ul>						
+
+						<ul class="two-col last-col latest-tweet">
+							<li class="nav-top-item"><a href="https://twitter.com/thinktheology" target="_blank" title="Twitter @thinktheology">Latest Tweet</a></li>
+							<li id="recentTweets"></li>
+						</ul>		
+						
+
+<!--
+						<ul class="three-col search-bottom">
+							<form class="form-wrapper clearfix" action="https://thinktheology.co.uk/search/results" method="post" autocomplete="off">
+							    <input name="keywords" class="search" placeholder="Search the site..." required>
+							    <button class="sprite ir" type="submit"></button><br />
+							    					    
+					            <fieldset class="checkboxes clearfix"><span>Include:</span>
+							            	<input id="chkTitle4" class="css-checkbox" type="checkbox" name="search_in[]" value="title" checked/>
+							            
+											<input id="chkTags4" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-tags|article-series-tag|article-people-tag" checked/>
+											<label for="chkTags4" name="tags_lbl" class="css-label">Tags</label>
+											
+											
+											<input id="chkBody4" class="css-checkbox" type="checkbox" name="search_in[]" value="|article-body|article-summary" checked/>
+											<label for="chkBody4" name="body_lbl" class="css-label">Article</label>								
+						        </fieldset>
+							</form>   							
+
+						</ul>
+-->
+											
+						<div class="credit">Design &amp; Development by <a href="http://weareboxhead.com" title="Leeds design agency box-head website">Box-head</a></div>
+				</div>
+			</footer>
+
+		</div> <!-- inner wrapper -->
+	</div> <!-- wrapper -->
+
+	<!-- JS -->
+<script type="text/javascript" src="https://thinktheology.co.uk/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="https://thinktheology.co.uk/js/jquery-ui-ck.js"></script>
+
+<!-- your ALS version -->
+<script type="text/javascript" src="https://thinktheology.co.uk/js/jquery.alsEN-1.3-ck.js"></script>
+
+<script type="text/javascript" src="https://thinktheology.co.uk/js/respond.min.js"></script>
+<script type="text/javascript" src="https://thinktheology.co.uk/js/masonry.pkgd.min.js"></script>
+<!-- <script type="text/javascript" src="https://thinktheology.co.uk/js/imagesloaded.pkgd.min.js"></script> -->
+<script type="text/javascript" src="https://thinktheology.co.uk/js/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="https://thinktheology.co.uk/js/readmore.min.js"></script>
+
+
+<script type="text/javascript" src="https://thinktheology.co.uk/js/min/main-min.js"></script>
+
+<!-- Google plus -->
+<script type="text/javascript">
+	window.___gcfg = {
+	  lang: 'en-US',
+	  parsetags: 'onload'
+	};	
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7352865-3']);
+	_gaq.push(['_trackPageview']);
+	
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+		
+</script>
+
+
+<script>
+	
+	/* if(keywords = getCookie("keywords")) document.getElementById("search-form").myForm.keywords.value = keywords; */
+
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    // var disqus_shortname = 'thinktheologyuk'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    // (function() {
+    //     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    //     dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    //     (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    // })();
+</script>
+
+<!-- Ref Tagger JS -->
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: "ESV",			
+			socialSharing: [],
+			tagChapters: true,
+			customStyle : {
+				heading: {
+					backgroundColor : "#2dbba7",
+					color : "#ffffff"
+				},
+				body   : {
+					color : "#232323",
+					moreLink : {
+						color: "#2dbba7"
+					}
+				}
+			}
+		}
+	};
+	
+	(function(d, t) {
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = "//api.reftagger.com/v2/RefTagger.js";
+		s.parentNode.insertBefore(g, s);
+	}(document, "script"));
+</script>
+
+
+</body>
+</html>
+
